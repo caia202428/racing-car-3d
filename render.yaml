@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: grand-prix-3d
+    runtime: static
+    staticPublishPath: .
